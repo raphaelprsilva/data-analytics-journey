@@ -7,3 +7,5 @@
 [03. Data Analytics vs Business Analytics](./03-data-e-bussines-analytics/README.md)
 
 [04. Tipos de dados](./04-tipos-de-dados/README.md)
+
+[05. Metadados](./05-metadados/README.md)
